@@ -5,7 +5,7 @@
     "version": "0.1.0",
     "publisher": "kevcunnane",
     "engines": {
-        "vscode": "^1.22.0",
+        "vscode": "^1.19.0",
         "sqlops": "*"
     },
     "categories": [
