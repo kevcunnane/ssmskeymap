@@ -18,7 +18,8 @@
             "runtimeExecutable": "sqlops",
             "args": [
                 "--extensionDevelopmentPath=${workspaceFolder}"
-            ]
+            ],
+            "timeout": 20000
         }
     ]
 }

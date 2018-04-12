@@ -46,11 +46,22 @@
             },
             {
                 "key": "ctrl+e",
-                "command": "runQueryKeyboardAction"
+                "command": "runQueryKeyboardAction",
+                "when": "queryEditorVisible"
             },
             {
                 "key": "ctrl+r",
-                "command": "toggleQueryResultsKeyboardAction"
+                "command": "toggleQueryResultsKeyboardAction",
+                "when": "queryEditorVisible"
+            },
+            {
+                "key": "ctrl+shift+r",
+                "command": "workbench.action.openRecent"
+            },
+            {
+                "key": "ctrl+shift+r",
+                "command": "workbench.action.quickOpenNavigatePreviousInRecentFilesPicker",
+                "when": "inQuickOpen && inRecentFilesPicker"
             }
         ]
     }
