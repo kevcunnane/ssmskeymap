@@ -2,7 +2,7 @@
     "name": "ssmskeymap",
     "displayName": "SSMS Keymap",
     "description": "This extension ports popular SSMS keyboard shortcuts to SQL Operations Studio. After installing the extension and restarting Ops Studio your favorite keyboard shortcuts from SSMS are now available.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "kevcunnane",
     "engines": {
         "vscode": "^1.19.0",
