@@ -62,6 +62,23 @@
                 "key": "ctrl+shift+r",
                 "command": "workbench.action.quickOpenNavigatePreviousInRecentFilesPicker",
                 "when": "inQuickOpen && inRecentFilesPicker"
+            },
+            {
+                "key": "ctrl+shift+u",
+                "command": "editor.action.transformToUppercase"
+            },
+            {
+                "key": "ctrl+shift+l",
+                "command": "editor.action.transformToLowercase"
+            },
+            {
+                "key": "ctrl+]",
+                "command": "editor.action.jumpToBracket"
+            },
+            {
+                "key": "ctrl+shift+]",
+                "command": "editor.action.indentLines",
+                "when": "editorTextFocus && !editorReadonly"
             }
         ]
     }
