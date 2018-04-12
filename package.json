@@ -43,6 +43,14 @@
             {
                 "key": "ctrl+m",
                 "command": "runCurrentQueryWithActualPlanKeyboardAction"
+            },
+            {
+                "key": "ctrl+e",
+                "command": "runQueryKeyboardAction"
+            },
+            {
+                "key": "ctrl+r",
+                "command": "toggleQueryResultsKeyboardAction"
             }
         ]
     }
