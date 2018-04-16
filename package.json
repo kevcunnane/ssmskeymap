@@ -18,6 +18,7 @@
     "bugs": {
         "url": "https://github.com/kevcunnane/ssmskeymap/issues"
     },
+    "icon": "visualstudio-keyboard.png",
     "contributes": {
         "keybindings": [
             {
