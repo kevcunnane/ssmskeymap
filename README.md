@@ -1,6 +1,6 @@
-# SSMS Keymap for SQL Operations Studio
+# SSMS Keymap for Azure Data Studio
 
-This extension ports the most popular SSMS keyboard shortcuts to SQL Operations Studio. After installing the extension and restarting VS Code your favorite keyboard shortcuts from SSMS are now available. 
+This extension ports the most popular SSMS keyboard shortcuts to Azure Data Studio. After installing the extension and restarting VS Code your favorite keyboard shortcuts from SSMS are now available. 
 
 ## What keyboard shortcuts are included?
 
@@ -8,7 +8,7 @@ You can see all the keyboard shortcuts in the extension's contribution list.
 
 ## Why don't all SSMS commands work? 
 
-SQL Operations Studio has not implemented all features. Head on over to [GitHub issue](https://github.com/Microsoft/sqlopsstudio/issues) and let the SQL Operations Studio team know what you'd like to see. 
+Azure Data Studio has not implemented all features. Head on over to [GitHub issue](https://github.com/Microsoft/azuredatastudio/issues) and let the Azure Data Studio team know what you'd like to see. 
 
 ## How do I contribute a keyboard shortcut?
 
@@ -28,7 +28,7 @@ We may have missed a keyboard shortcut. If we did please help us out! It is very
 }
 ```
 
-You can read more about how to contribute keybindings in extensions in the [official documentation](http://code.visualstudio.com/docs/extensionAPI/extension-points#_contributeskeybindings) for VS Code. The same process works for SQL Operations Studio.
+You can read more about how to contribute keybindings in extensions in the [official documentation](http://code.visualstudio.com/docs/extensionAPI/extension-points#_contributeskeybindings) for VS Code. The same process works for Azure Data Studio.
 
 
 
