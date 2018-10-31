@@ -51,6 +51,11 @@
                 "when": "queryEditorVisible"
             },
             {
+                "key": "alt+x",
+                "command": "runQueryKeyboardAction",
+                "when": "queryEditorVisible"
+            },
+            {
                 "key": "ctrl+r",
                 "command": "toggleQueryResultsKeyboardAction",
                 "when": "queryEditorVisible"
