@@ -2,7 +2,7 @@
     "name": "ssmskeymap",
     "displayName": "SSMS Keymap",
     "description": "This extension ports popular SSMS keyboard shortcuts to Azure Data Studio. After installing the extension and restarting Ops Studio your favorite keyboard shortcuts from SSMS are now available.",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "kevcunnane",
     "engines": {
         "vscode": "^1.19.0",
