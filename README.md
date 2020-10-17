@@ -4,7 +4,7 @@ This extension ports the most popular SSMS keyboard shortcuts to Azure Data Stud
 
 ## What keyboard shortcuts are included?
 
-You can see all the keyboard shortcuts in the extension's contribution list. 
+You can see all the keyboard shortcuts in the [package.json file](https://github.com/kevcunnane/ssmskeymap/blob/master/package.json#L23). 
 
 ## Why don't all SSMS commands work? 
 
