@@ -2,6 +2,13 @@
 
 This extension ports the most popular SSMS keyboard shortcuts to Azure Data Studio. After installing the extension and restarting VS Code your favorite keyboard shortcuts from SSMS are now available. 
 
+## Installation
+1. Download the latest VSIX file under [Releases](https://github.com/kevcunnane/ssmskeymap/releases).
+2. In Azure Data Studio, open the command palette (`ctrl/command + shift + P`).
+3. Type `Extensions: Install from VSIX...` and select the filtered option or hit enter.
+4. Accept the third party risk popup notification in the bottom right.
+5. Installation will now complete and the keyboard shortcuts will be enabled.
+
 ## What keyboard shortcuts are included?
 
 You can see all the keyboard shortcuts in the extension's contribution list. 
